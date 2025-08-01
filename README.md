@@ -72,6 +72,3 @@ POST /auth/sign-in
 ```
 docker-compose up --build
 ```
-
-## Лицензия
-Укажите вашу лицензию (например, MIT)
